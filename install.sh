@@ -2,7 +2,7 @@
 
 REPO="https://github.com/b10189ahmedali-pixel/HITLOS.git"
 FOLDER="HITLOS"
-APP_NAME="hiloshost"
+APP_NAME="HITLOS"
 
 clear
 
